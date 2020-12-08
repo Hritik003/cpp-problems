@@ -1,2 +1,3 @@
-# Hacker-rank-problems-in-c-
+# Hacker-rank-problems-in-c++
+
 problems in c++
