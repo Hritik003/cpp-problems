@@ -8,7 +8,7 @@ by using **PQ** or a **Set**, we keep prioritizing the shortest path and hence d
 ### Time complexity
 $O(E log(V))$
 
-###Note:
+### Note:
 Dijkstras Algorithm doesn't work with negative weighted cycle.
 
 ## Printing the shortest path via Dijkstras Algo
