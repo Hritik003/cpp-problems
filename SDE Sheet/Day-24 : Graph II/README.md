@@ -15,3 +15,10 @@ Dijkstras Algorithm doesn't work with negative weighted cycle.
 It is just the same process of the previous algo, instead we keep track of the path using Parent array.
 ### Time Complexity
 $E log(V) + O(n)$
+<br>
+
+## Bellman Ford Algorithm
+This algorithm works for a graph with negative weights and negative weighted cycle unlike dijkstras algorithm
+
+### Time Complexity
+$$O(E * V)$$
