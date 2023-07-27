@@ -22,3 +22,10 @@ This algorithm works for a graph with negative weights and negative weighted cyc
 
 ### Time Complexity
 $$O(E * V)$$
+
+## Flyod Marshall Algorithm
+This algorithm works as well for detecting negative weighted cycles. This is more like a bruteforce approach, also known as the Multi-Source Approach
+
+### Time Complexity
+$$O(n^3)$$
+
